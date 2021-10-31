@@ -2,6 +2,7 @@
 <b>HAPPY HALLOWEEEN EVERYONE! :)</b>
 <br>
 <br>
+<p align="center"> 
 This is the Halloween Edition of my Flask Greeting App!
 <br>
 <br>
@@ -36,4 +37,4 @@ https://youtu.be/6plVs_ytIH8
 <br>
 ENJOY! SHARE! USE! NO NEED TO CREDIT ME OR ASK FOR PREMISSION!
 </center>
-
+</p>
