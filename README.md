@@ -1,4 +1,3 @@
-<center>
 # HalloweenGreetingApp
 <b>HAPPY HALLOWEEEN EVERYONE! :)</b>
 <br>
@@ -9,6 +8,7 @@ This is the Halloween Edition of my Flask Greeting App!
 ![ss](https://user-images.githubusercontent.com/32107652/139600034-bcdd2494-c03b-4ed9-b866-305a36483c69.png)
 <br>
 <br>
+<center>
 Please note, this application is mean to be deployed with Wayscript X!
 <br>
 therefore the requirements.txt file only contains a single library.
