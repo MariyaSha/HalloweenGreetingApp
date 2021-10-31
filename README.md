@@ -1,3 +1,4 @@
+<center>
 # HalloweenGreetingApp
 <b>HAPPY HALLOWEEEN EVERYONE! :)</b>
 <br>
@@ -34,5 +35,5 @@ If you want to learn how to build the original app, checkout my tutorial on YouT
 https://youtu.be/6plVs_ytIH8
 <br>
 ENJOY! SHARE! USE! NO NEED TO CREDIT ME OR ASK FOR PREMISSION!
-
+</center>
 
