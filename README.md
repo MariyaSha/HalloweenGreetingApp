@@ -1,5 +1,5 @@
 # HalloweenGreetingApp
-<b>HAPPY HALLOWEEEN EVERYONE! :)</b>
+<b>HAPPY HALLOWEEN EVERYONE! :)</b>
 <br>
 <br>
 This is the Halloween Edition of my Flask Greeting App!
@@ -19,6 +19,7 @@ generate a Procfile and a new requirements.txt file (please see
 <br>
 the link to a tutorial I've made about it at the very bottom)
 <br>
+<br>
 If you want to deploy it <b>directly from your IDE</b> please read more about Wayscript X:
 <br>
 https://wsxdocs.wayscript.com/
@@ -34,5 +35,9 @@ If you want to learn how to build the original app, checkout my tutorial on YouT
 <br>
 https://youtu.be/6plVs_ytIH8
 <br>
-ENJOY! SHARE! USE! NO NEED TO CREDIT ME OR ASK FOR PREMISSION!
-</center>
+<br>
+<b>
+ENJOY, SHARE, USE! 
+<br>
+NO NEED TO CREDIT ME OR ASK FOR PREMISSION!
+</b>
